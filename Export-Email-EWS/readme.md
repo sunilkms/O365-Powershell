@@ -4,8 +4,8 @@ Below CMD export email in EML format, available Folder list will be show
 [D:\WindowsPowerShell\Download-Email]
 SUNIL:65 >.\Download-Email-EWS.ps1 -exportEML -userName admin@domain.com -password Password -mailbox user1@domain.com
 
-DisplayName   TotalCount FolderClass
------------   ---------- -----------
+#DisplayName   TotalCount FolderClass
+#-----------   ---------- -----------
 Archive                0 IPF.Note
 Deleted Items          1 IPF.Note
 Drafts                 0 IPF.Note
