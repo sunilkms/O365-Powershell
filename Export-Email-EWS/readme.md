@@ -1,4 +1,4 @@
-Export or report email from a specific folder.
+**Export or report email from a specific folder**
 Below CMD export email in EML format, available Folder list will be show
 
 [D:\WindowsPowerShell\Download-Email]
